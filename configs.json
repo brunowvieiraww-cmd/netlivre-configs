@@ -1,0 +1,41 @@
+{
+  "versao": "1",
+  "servidores": [
+    {
+      "id": "br-01",
+      "nome": "Brasil - TIM #1",
+      "host": "137.131.249.58",
+      "porta": 22,
+      "usuario": "sshtunnel",
+      "senha": "NetLivre@2026",
+      "tipo": "SSH",
+      "operadora": "TIM",
+      "status": "online",
+      "limite_minutos": 0
+    },
+    {
+      "id": "br-02",
+      "nome": "Brasil - VIVO #1",
+      "host": "137.131.249.58",
+      "porta": 80,
+      "usuario": "sshtunnel",
+      "senha": "NetLivre@2026",
+      "tipo": "SSH",
+      "operadora": "VIVO",
+      "status": "online",
+      "limite_minutos": 0
+    },
+    {
+      "id": "br-03",
+      "nome": "Brasil - CLARO #1",
+      "host": "137.131.249.58",
+      "porta": 443,
+      "usuario": "sshtunnel",
+      "senha": "NetLivre@2026",
+      "tipo": "SSH",
+      "operadora": "CLARO",
+      "status": "online",
+      "limite_minutos": 0
+    }
+  ]
+}
