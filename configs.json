@@ -1,5 +1,5 @@
 {
-  "versao": "7",
+  "versao": "8",
   "servidores": [
     {
       "id": "br-01",
@@ -40,8 +40,8 @@
     {
       "id": "br-04",
       "nome": "Brasil - TIM WS",
-      "host": "137.131.249.58",
-      "porta": 8443,
+      "host": "cg55yvcan0o.map.azionedge.net",
+      "porta": 443,
       "usuario": "sshtunnel",
       "senha": "NetLivre2026",
       "tipo": "WS",
