@@ -36,6 +36,42 @@
       "operadora": "CLARO",
       "status": "online",
       "limite_minutos": 0
+    },
+    {
+      "id": "br-04",
+      "nome": "Brasil - TIM WS",
+      "host": "137.131.249.58",
+      "porta": 8080,
+      "usuario": "sshtunnel",
+      "senha": "NetLivre2026",
+      "tipo": "WS",
+      "operadora": "TIM",
+      "status": "online",
+      "limite_minutos": 0
+    },
+    {
+      "id": "br-05",
+      "nome": "Brasil - VIVO WS",
+      "host": "137.131.249.58",
+      "porta": 8080,
+      "usuario": "sshtunnel",
+      "senha": "NetLivre2026",
+      "tipo": "WS",
+      "operadora": "VIVO",
+      "status": "online",
+      "limite_minutos": 0
+    },
+    {
+      "id": "br-06",
+      "nome": "Brasil - CLARO WS",
+      "host": "137.131.249.58",
+      "porta": 8080,
+      "usuario": "sshtunnel",
+      "senha": "NetLivre2026",
+      "tipo": "WS",
+      "operadora": "CLARO",
+      "status": "online",
+      "limite_minutos": 0
     }
   ]
 }
