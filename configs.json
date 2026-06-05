@@ -1,5 +1,5 @@
 {
-  "versao": "1",
+  "versao": "4",
   "servidores": [
     {
       "id": "br-01",
@@ -15,6 +15,42 @@
     },
     {
       "id": "br-02",
+      "nome": "Brasil - TIM #2",
+      "host": "137.131.249.58",
+      "porta": 80,
+      "usuario": "sshtunnel",
+      "senha": "NetLivre2026",
+      "tipo": "SSH",
+      "operadora": "TIM",
+      "status": "online",
+      "limite_minutos": 0
+    },
+    {
+      "id": "br-03",
+      "nome": "Brasil - TIM #3",
+      "host": "137.131.249.58",
+      "porta": 443,
+      "usuario": "sshtunnel",
+      "senha": "NetLivre2026",
+      "tipo": "SSH",
+      "operadora": "TIM",
+      "status": "online",
+      "limite_minutos": 0
+    },
+    {
+      "id": "br-04",
+      "nome": "Brasil - TIM Azion",
+      "host": "cg55yvcan0o.map.azionedge.net",
+      "porta": 80,
+      "usuario": "sshtunnel",
+      "senha": "NetLivre2026",
+      "tipo": "SSH",
+      "operadora": "TIM",
+      "status": "online",
+      "limite_minutos": 0
+    },
+    {
+      "id": "br-05",
       "nome": "Brasil - VIVO #1",
       "host": "137.131.249.58",
       "porta": 80,
@@ -26,49 +62,13 @@
       "limite_minutos": 0
     },
     {
-      "id": "br-03",
+      "id": "br-06",
       "nome": "Brasil - CLARO #1",
       "host": "137.131.249.58",
       "porta": 443,
       "usuario": "sshtunnel",
       "senha": "NetLivre2026",
       "tipo": "SSH",
-      "operadora": "CLARO",
-      "status": "online",
-      "limite_minutos": 0
-    },
-    {
-      "id": "br-04",
-      "nome": "Brasil - TIM WS",
-      "host": "137.131.249.58",
-      "porta": 8080,
-      "usuario": "sshtunnel",
-      "senha": "NetLivre2026",
-      "tipo": "WS",
-      "operadora": "TIM",
-      "status": "online",
-      "limite_minutos": 0
-    },
-    {
-      "id": "br-05",
-      "nome": "Brasil - VIVO WS",
-      "host": "137.131.249.58",
-      "porta": 8080,
-      "usuario": "sshtunnel",
-      "senha": "NetLivre2026",
-      "tipo": "WS",
-      "operadora": "VIVO",
-      "status": "online",
-      "limite_minutos": 0
-    },
-    {
-      "id": "br-06",
-      "nome": "Brasil - CLARO WS",
-      "host": "137.131.249.58",
-      "porta": 8080,
-      "usuario": "sshtunnel",
-      "senha": "NetLivre2026",
-      "tipo": "WS",
       "operadora": "CLARO",
       "status": "online",
       "limite_minutos": 0
