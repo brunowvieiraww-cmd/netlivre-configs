@@ -1,5 +1,5 @@
 {
-  "versao": "4",
+  "versao": "5",
   "servidores": [
     {
       "id": "br-01",
@@ -41,10 +41,10 @@
       "id": "br-04",
       "nome": "Brasil - TIM Azion",
       "host": "cg55yvcan0o.map.azionedge.net",
-      "porta": 80,
+      "porta": 443,
       "usuario": "sshtunnel",
       "senha": "NetLivre2026",
-      "tipo": "SSH",
+      "tipo": "WS",
       "operadora": "TIM",
       "status": "online",
       "limite_minutos": 0
