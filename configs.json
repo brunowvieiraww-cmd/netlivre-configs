@@ -1,5 +1,5 @@
 {
-  "versao": "8",
+  "versao": "9",
   "servidores": [
     {
       "id": "br-01",
@@ -40,7 +40,7 @@
     {
       "id": "br-04",
       "nome": "Brasil - TIM WS",
-      "host": "cg55yvcan0o.map.azionedge.net",
+      "host": "netlivre-ws-proxy.brunow-vieiraww.workers.dev",
       "porta": 443,
       "usuario": "sshtunnel",
       "senha": "NetLivre2026",
