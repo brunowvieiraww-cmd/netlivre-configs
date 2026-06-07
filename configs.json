@@ -1,5 +1,5 @@
 {
-  "versao": "10",
+  "versao": "11",
   "servidores": [
     {
       "id": "br-01",
@@ -11,7 +11,10 @@
       "tipo": "SSH",
       "operadora": "TIM",
       "status": "online",
-      "limite_minutos": 0
+      "limite_minutos": 0,
+      "sni": null,
+      "proxy_host": null,
+      "proxy_port": 0
     },
     {
       "id": "br-02",
@@ -23,7 +26,10 @@
       "tipo": "SSH",
       "operadora": "TIM",
       "status": "online",
-      "limite_minutos": 0
+      "limite_minutos": 0,
+      "sni": null,
+      "proxy_host": null,
+      "proxy_port": 0
     },
     {
       "id": "br-03",
@@ -35,7 +41,10 @@
       "tipo": "SSH",
       "operadora": "TIM",
       "status": "online",
-      "limite_minutos": 0
+      "limite_minutos": 0,
+      "sni": null,
+      "proxy_host": null,
+      "proxy_port": 0
     },
     {
       "id": "br-04",
@@ -47,10 +56,43 @@
       "tipo": "WS",
       "operadora": "TIM",
       "status": "online",
-      "limite_minutos": 0
+      "limite_minutos": 0,
+      "sni": null,
+      "proxy_host": null,
+      "proxy_port": 0
     },
     {
       "id": "br-05",
+      "nome": "Brasil - TIM SSL (tim.com.br)",
+      "host": "137.131.249.58",
+      "porta": 8444,
+      "usuario": "sshtunnel",
+      "senha": "NetLivre2026",
+      "tipo": "SSL",
+      "operadora": "TIM",
+      "status": "online",
+      "limite_minutos": 0,
+      "sni": "www.tim.com.br",
+      "proxy_host": null,
+      "proxy_port": 0
+    },
+    {
+      "id": "br-06",
+      "nome": "Brasil - TIM SSL (meutim.com.br)",
+      "host": "137.131.249.58",
+      "porta": 8444,
+      "usuario": "sshtunnel",
+      "senha": "NetLivre2026",
+      "tipo": "SSL",
+      "operadora": "TIM",
+      "status": "online",
+      "limite_minutos": 0,
+      "sni": "meutim.com.br",
+      "proxy_host": null,
+      "proxy_port": 0
+    },
+    {
+      "id": "br-07",
       "nome": "Brasil - VIVO #1",
       "host": "137.131.249.58",
       "porta": 80,
@@ -59,10 +101,13 @@
       "tipo": "SSH",
       "operadora": "VIVO",
       "status": "online",
-      "limite_minutos": 0
+      "limite_minutos": 0,
+      "sni": null,
+      "proxy_host": null,
+      "proxy_port": 0
     },
     {
-      "id": "br-06",
+      "id": "br-08",
       "nome": "Brasil - CLARO #1",
       "host": "137.131.249.58",
       "porta": 443,
@@ -71,7 +116,10 @@
       "tipo": "SSH",
       "operadora": "CLARO",
       "status": "online",
-      "limite_minutos": 0
+      "limite_minutos": 0,
+      "sni": null,
+      "proxy_host": null,
+      "proxy_port": 0
     }
   ]
 }
