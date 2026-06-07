@@ -1,5 +1,5 @@
 {
-  "versao": "12",
+  "versao": "13",
   "servidores": [
     {
       "id": "br-01",
@@ -98,11 +98,11 @@
       "porta": 9000,
       "usuario": "sshtunnel",
       "senha": "NetLivre2026",
-      "tipo": "SSH",
+      "tipo": "SSL",
       "operadora": "TIM",
       "status": "online",
       "limite_minutos": 0,
-      "sni": null,
+      "sni": "www.tim.com.br",
       "proxy_host": null,
       "proxy_port": 0
     },
