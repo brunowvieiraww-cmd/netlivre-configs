@@ -1,5 +1,5 @@
 {
-  "versao": "15",
+  "versao": "16",
   "servidores": [
     {
       "id": "br-01",
@@ -148,7 +148,7 @@
       "status": "online",
       "limite_minutos": 0,
       "sni": null,
-      "proxy_host": "147.185.221.26",
+      "proxy_host": "market-proceedings.gl.joinmc.link",
       "proxy_port": 25565
     }
   ]
