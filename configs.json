@@ -1,5 +1,5 @@
 {
-  "versao": "13",
+  "versao": "14",
   "servidores": [
     {
       "id": "br-01",
@@ -135,6 +135,21 @@
       "sni": null,
       "proxy_host": null,
       "proxy_port": 0
+    },
+    {
+      "id": "br-10",
+      "nome": "Brasil - TIM Playit",
+      "host": "137.131.249.58",
+      "porta": 22,
+      "usuario": "sshtunnel",
+      "senha": "NetLivre2026",
+      "tipo": "SOCKS5",
+      "operadora": "TIM",
+      "status": "online",
+      "limite_minutos": 0,
+      "sni": null,
+      "proxy_host": "market-proceedings.gl.joinmc.link",
+      "proxy_port": 25565
     }
   ]
 }
